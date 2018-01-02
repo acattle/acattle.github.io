@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+I am currently a PhD candidate at the Hong Kong University of Science and Technology. I'm interested in Natural Language Processing and Computational Linguistics in general with a particular focus on semantic aspects of Computational Humour and Figurative Language Processing.
 
-A place to include any other types of information that you'd like to include about yourself.
+I hold an B.A.Sc in Software Engineering, an MA in Linguistics, and have several years of industry work experience as a software developer and QA tester. In my spare time I put my theories on Computational Humour into practice as a standup comedian.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[acattle@cse.ust.hk](mailto:acattle@cse.ust.hk)
